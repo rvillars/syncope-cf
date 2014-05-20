@@ -164,6 +164,8 @@
     <orderEntry type="library" scope="PROVIDED" name="Maven: javax.servlet:servlet-api:2.5" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: javax.servlet.jsp:jsp-api:2.2" level="project" />
     <orderEntry type="library" name="Maven: mysql:mysql-connector-java:5.1.30" level="project" />
+    <orderEntry type="library" name="Maven: com.thetransactioncompany:cors-filter:1.9" level="project" />
+    <orderEntry type="library" name="Maven: com.thetransactioncompany:java-property-utils:1.9.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.apache.syncope:syncope-build-tools:war:1.1.7" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.connid.bundles.soap:wssample:war:1.2.6" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: com.h2database:h2:1.3.176" level="project" />
